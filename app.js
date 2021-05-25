@@ -1,3 +1,4 @@
+
 // // Objetivo 1 [Datos del hotel]
 // var hotel = {
 //     name: "Mencey",
@@ -71,3 +72,7 @@ var stars = {
 
 var rating = prompt("Puntuación: una, dos, tres, cuatro o cinco estrellas");
 document.getElementById('rating').innerHTML = stars[rating];
+
+
+
+//** Nota: dejo código comentado con los pasos previos a la parte final del ejercicio :) **//
