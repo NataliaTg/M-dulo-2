@@ -70,7 +70,7 @@ var stars = {
     "<span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span>",
 };
 
-var rating = prompt("Puntuación: una, dos, tres, cuatro o cinco estrellas");
+var rating = prompt("Puntuación: 1, 2, 3, 4 o 5 estrellas");
 document.getElementById('rating').innerHTML = stars[rating];
 
 
